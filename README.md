@@ -17,10 +17,10 @@ Projects created during the MS Business Analytics Program at McCombs School of B
 - Optimizing Production and Pricing Decisions in Publishing Using Extensions to the Newsvendor Model [Project Link](https://github.com/girirohan36/Advanced-Newsvendor-Optimization)
 
 ### [Analytics , Control and Improvement of Supply Chain](https://github.com/girirohan36/Maersk_SCM)
-- Analyzing and optimizing Maersk's supply chain operations through data-driven insights and interactive dashboards to improve inventory management, shipping efficiency, and customer demand fulfillment [Project Link](https://github.com/girirohan36/Maersk_SCM)
+- Analyzing and optimizing Maersk's supply chain operations through data-driven insights and interactive dashboards to improve inventory management, shipping efficiency, and customer demand fulfillment [Link](https://github.com/girirohan36/Maersk_SCM)
 
 ### [Information Management](https://github.com/girirohan36/Target_DataManagement)
-- Analyzing and optimizing Maersk's supply chain operations through data-driven insights and interactive dashboards to improve inventory management, shipping efficiency, and customer demand fulfillment [Project Link](https://github.com/girirohan36/Target_DataManagement)
+- Analyzing and optimizing Maersk's supply chain operations through data-driven insights and interactive dashboards to improve inventory management, shipping efficiency, and customer demand fulfillment [Link](https://github.com/girirohan36/Target_DataManagement)
 
 ## Summer 2024
 
